@@ -4,7 +4,9 @@ text to speech (in Hindi) using Meta's Massively Multilingual Speech (MMS) proje
 step by step instruction on how to make it work with PYCharm
 
 step 1: 
+'''
 pip install soundfile 
+'''
 This open source project works with Text-to-speech with The Massively Multilingual Speech (MMS) project. When you reach here, try and open "support_list.txt", massive list of all the languages that MMS supports. For example: hin for Hindi.
 
 step 2:
