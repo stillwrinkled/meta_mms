@@ -10,7 +10,7 @@ pip install ttsmms
 ```
 https://github.com/wannaphong/ttsmms/tree/main
 ```
-This open source project works with Text-to-speech with The Massively Multilingual Speech (MMS) project. When you reach here, try and open "support_list.txt", massive list of all the languages that MMS supports. For example: hin for Hindi.
+This open source project works for Text-to-speech with Meta's The Massively Multilingual Speech (MMS) project. When you reach here, try and open "support_list.txt", massive list of all the languages that MMS supports. For example: hin is for Hindi.
 
 step 2:
 ```
