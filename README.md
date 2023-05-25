@@ -16,7 +16,7 @@ step 2:
 ```
 curl https://dl.fbaipublicfiles.com/mms/tts/hin.tar.gz --output hin.tar.gz 
 ```
-notice, 'hin' for Hindi. You can replace 'hin' with 'pol' for Polish and likewise
+Download the meta model. Also, notice 'hin' is for Hindi. You can replace 'hin' with 'pol' for Polish and likewise. Refer "support_list.txt" for exhaustive list
 
 step 3:
 ```
