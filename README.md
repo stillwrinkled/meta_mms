@@ -28,4 +28,4 @@ step 4
 ```
 git clone https://github.com/stillwrinkled/meta_mms.git
 ```
-and open this as a project in PYCharm and run
+and open this as a project in PYCharm and run the project
