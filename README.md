@@ -7,6 +7,9 @@ step 1:
 ```
 pip install soundfile 
 ```
+```
+https://github.com/wannaphong/ttsmms/tree/main
+```
 This open source project works with Text-to-speech with The Massively Multilingual Speech (MMS) project. When you reach here, try and open "support_list.txt", massive list of all the languages that MMS supports. For example: hin for Hindi.
 
 step 2:
